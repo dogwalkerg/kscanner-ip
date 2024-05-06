@@ -1,0 +1,39 @@
+{
+    "name": "kScanner",
+    "description": "Cloudflare Scanner to find cleanIp",
+    "dir": "auto",
+    "lang": "en",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "short_name": "kScanner",
+    "start_url": "/?v1.0.12",
+    "background_color": "#f28119",
+    "theme_color": "#ffffff",
+    "categories": ["utilities"],
+    "id": "space.ircf.scanner",
+    "bundleId": "space.ircf.scanner",
+    "version": "1.0.12",
+    "icons": [
+        {
+            "src": "/img/icons/192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
